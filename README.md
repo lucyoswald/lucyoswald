@@ -1,5 +1,7 @@
 ### Hi I'm Lucy, welcome! 👩🏻‍💻
 
-I'm a software engineering student currently enrolled in General Assembly's Software Engineering course, from November 2022 to May 6th 2023. I will be then searching for my first role as a Junior Software Engineer.
+I am a Junior Software Engineer based in London, with proficiency in JavaScript, Python, HTML, and CSS.
+
+I just completed General Assembly's Software Engineering course, from November 2022 to May 6th 2023.
 
 #### Check out some of my pinned projects below...🌱 
